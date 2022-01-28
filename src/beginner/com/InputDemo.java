@@ -17,6 +17,5 @@ public class InputDemo {
         name = input.nextLine();
         System.out.println("Welcome: " + name);
 
-
     }
 }

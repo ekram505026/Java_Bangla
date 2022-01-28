@@ -16,6 +16,5 @@ public class DataType {
         System.out.printf("float f = %.1f\n", f);
         System.out.printf("double d = %3f\n", d);
 
-
     }
 }

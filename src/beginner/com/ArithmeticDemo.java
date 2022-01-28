@@ -28,6 +28,5 @@ public class ArithmeticDemo {
         result = num1 % num2;
         System.out.println("Remainder: " + result);
 
-
     }
 }
